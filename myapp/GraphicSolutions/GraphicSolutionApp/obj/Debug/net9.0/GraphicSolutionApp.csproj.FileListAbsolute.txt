@@ -1,0 +1,14 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.exe
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.runtimeconfig.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\refint\GraphicSolutionApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.genruntimeconfig.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\GraphicSolutions\GraphicSolutionApp\obj\Debug\net9.0\ref\GraphicSolutionApp.dll

@@ -1,0 +1,11 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\bin\Debug\net9.0\Firstunittest.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\bin\Debug\net9.0\Firstunittest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\bin\Debug\net9.0\Firstunittest.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\refint\Firstunittest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\Firstunittest.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Firstunittest\obj\Debug\net9.0\ref\Firstunittest.dll

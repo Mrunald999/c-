@@ -1,0 +1,4 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\LooseCoupledSolutionNew\Utility\obj\Debug\net9.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\LooseCoupledSolutionNew\Utility\obj\Debug\net9.0\Utility.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\LooseCoupledSolutionNew\Utility\obj\Debug\net9.0\Utility.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\LooseCoupledSolutionNew\Utility\obj\Debug\net9.0\Utility.csproj.CoreCompileInputs.cache

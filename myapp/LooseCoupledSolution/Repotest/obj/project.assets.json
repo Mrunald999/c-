@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOI": "1.0.0",
+          "SAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        }
+      },
+      "BOI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BOI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BOI.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "SAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOI": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../API/API.csproj",
+      "msbuildProject": "../API/API.csproj"
+    },
+    "BOI/1.0.0": {
+      "type": "project",
+      "path": "../BOI/BOI.csproj",
+      "msbuildProject": "../BOI/BOI.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "SAL/1.0.0": {
+      "type": "project",
+      "path": "../SAL/SAL.csproj",
+      "msbuildProject": "../SAL/SAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "API >= 1.0.0",
+      "DAL >= 1.0.0",
+      "SAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\Repotest\\Repotest.csproj",
+      "projectName": "Repotest",
+      "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\Repotest\\Repotest.csproj",
+      "packagesPath": "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\Repotest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MrunalNandkumarDeshp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj"
+            },
+            "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj": {
+              "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

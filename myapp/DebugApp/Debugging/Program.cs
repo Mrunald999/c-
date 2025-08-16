@@ -1,0 +1,10 @@
+﻿using HR;
+Employee employee = new Employee();
+employee.Name = "Mrunal";
+employee.Id = 8;
+employee.BasicSalary = 60000;
+employee.Birthdate = new DateTime(1995, 10, 17);
+employee.DaysWorked = 28;
+employee.TaxToPay = 12000;
+employee.PerDayPay = 4000;
+Console.WriteLine(employee);

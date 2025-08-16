@@ -1,0 +1,34 @@
+    public List<Employee> GetAllEmployees()
+    {
+
+        return new StaffingRepo().GetAllEmployees();
+
+
+    }
+    public Employee GetEmployeeById(int EmpId);
+    {
+        
+        return new StaffingRepo().GetEmployeeByID(EmpId);
+        
+
+    }
+    public void AddEmployee(Employee employee)
+    {
+        List<Employee> employees = new List<Employee>();
+        employees.Add(employee);
+        new StaffingRepo().AddEmployee(employee);
+
+    }
+
+    public void DeleteEmployee(int EmpId)
+    {
+        List<Employee> customers = GetAllEmployees();
+        new StaffingRepo().DeleteEmployee(EmpId);
+    }
+
+    public void UpdateEmployee(int EmpId)
+    {
+        List<Employee> customers = GetAllEmployees();
+        new StaffingRepo().UpdateEmployee(EmpId);
+    }
+}

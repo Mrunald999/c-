@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRStaffingWebAPI", "HRStaffingWebAPI\HRStaffingWebAPI.csproj", "{2498269A-A7AF-4A37-A23B-6DA7A466AD78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2498269A-A7AF-4A37-A23B-6DA7A466AD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2498269A-A7AF-4A37-A23B-6DA7A466AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2498269A-A7AF-4A37-A23B-6DA7A466AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2498269A-A7AF-4A37-A23B-6DA7A466AD78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD9A1D9-72AE-4DC7-A4BE-992F7E8C88E6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\bin\Debug\net9.0\productStore.exe
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\bin\Debug\net9.0\productStore.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\bin\Debug\net9.0\productStore.runtimeconfig.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\bin\Debug\net9.0\productStore.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\bin\Debug\net9.0\productStore.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\refint\productStore.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\productStore.genruntimeconfig.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Ecommerce\productStore\obj\Debug\net9.0\ref\productStore.dll

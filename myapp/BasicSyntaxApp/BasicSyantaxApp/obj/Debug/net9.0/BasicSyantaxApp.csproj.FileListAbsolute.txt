@@ -1,0 +1,14 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\bin\Debug\net9.0\BasicSyantaxApp.exe
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\bin\Debug\net9.0\BasicSyantaxApp.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\bin\Debug\net9.0\BasicSyantaxApp.runtimeconfig.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\bin\Debug\net9.0\BasicSyantaxApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\bin\Debug\net9.0\BasicSyantaxApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\refint\BasicSyantaxApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\BasicSyantaxApp.genruntimeconfig.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\BasicSyntaxApp\BasicSyantaxApp\obj\Debug\net9.0\ref\BasicSyantaxApp.dll

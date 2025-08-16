@@ -1,0 +1,14 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\bin\Debug\net9.0\JsonSerilizationApp.exe
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\bin\Debug\net9.0\JsonSerilizationApp.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\bin\Debug\net9.0\JsonSerilizationApp.runtimeconfig.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\bin\Debug\net9.0\JsonSerilizationApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\bin\Debug\net9.0\JsonSerilizationApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\refint\JsonSerilizationApp.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\JsonSerilizationApp.genruntimeconfig.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\JsonSerilizationApp\JsonSerilizationApp\obj\Debug\net9.0\ref\JsonSerilizationApp.dll

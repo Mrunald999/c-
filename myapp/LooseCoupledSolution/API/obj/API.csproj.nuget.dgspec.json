@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrunalNandkumarDeshp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj": {
+                "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj"
+              },
+              "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj": {
+                "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj",
+        "projectName": "BOI",
+        "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj",
+        "packagesPath": "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrunalNandkumarDeshp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrunalNandkumarDeshp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj": {
+                "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj",
+        "projectName": "SAL",
+        "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\SAL.csproj",
+        "packagesPath": "C:\\Users\\MrunalNandkumarDeshp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\SAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrunalNandkumarDeshp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj": {
+                "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\BOI\\BOI.csproj"
+              },
+              "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\MrunalNandkumarDeshp\\Desktop\\Mrunal\\Code\\myapp\\LooseCoupledSolution\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

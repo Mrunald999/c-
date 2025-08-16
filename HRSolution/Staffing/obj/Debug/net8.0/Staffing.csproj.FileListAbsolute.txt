@@ -1,0 +1,12 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\bin\Debug\net8.0\Staffing.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\bin\Debug\net8.0\Staffing.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\bin\Debug\net8.0\Staffing.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.csproj.AssemblyReference.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\refint\Staffing.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\Staffing.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\HRSolution\Staffing\obj\Debug\net8.0\ref\Staffing.dll

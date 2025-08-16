@@ -1,0 +1,14 @@
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.AssemblyInfoInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.AssemblyInfo.cs
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.csproj.CoreCompileInputs.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\bin\Debug\net9.0\Repotest.exe
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\bin\Debug\net9.0\Repotest.deps.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\bin\Debug\net9.0\Repotest.runtimeconfig.json
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\bin\Debug\net9.0\Repotest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\bin\Debug\net9.0\Repotest.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\refint\Repotest.dll
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.pdb
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\Repotest.genruntimeconfig.cache
+C:\Users\MrunalNandkumarDeshp\Desktop\Mrunal\Code\myapp\Reposolution\Repotest\obj\Debug\net9.0\ref\Repotest.dll
